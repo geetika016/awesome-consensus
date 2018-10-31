@@ -1,4 +1,5 @@
-# Awesome Consensus
+# Consensus Algorithms for distributed Systems
+
 
 A curated selection of artisanal consensus algorithms and hand-crafted distributed lock services.
 
